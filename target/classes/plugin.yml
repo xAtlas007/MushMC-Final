@@ -1,0 +1,7 @@
+name: MushMC
+author: xAtlas
+version: 0.0.1-SNAPSHOT
+main: br.com.mushmc.BukkitMain
+commands:
+  npccreate:
+  cash:
